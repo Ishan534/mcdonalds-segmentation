@@ -1,2 +1,2 @@
 # mcdonalds-segmentation
-Research on mcdonalds using ML tools 
+Analysis of mcdonalds market stratagies, using ML tools 
