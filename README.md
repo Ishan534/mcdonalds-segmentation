@@ -1,2 +1,2 @@
 # mcdonalds-segmentation
-###Research on mcdonalds using ML tools 
+Research on mcdonalds using ML tools 
